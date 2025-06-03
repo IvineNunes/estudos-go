@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/IvineNunes/estudos-go/meet"
+)
 
 func main() {
-	fmt.Println("Hello, World!")
+	meet.SayPeople("Ivine Linda")
 }
