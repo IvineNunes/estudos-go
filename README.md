@@ -39,32 +39,6 @@ Este repositório reúne os exercícios, anotações e pequenos projetos desenvo
 
 ---
 
-## 📂 Organização do Repositório
-
-```
-/semana01-fundamentos
-  - hello.go
-  - variaveis.go
-  - controle_fluxo.go
-
-/semana02-estruturas
-  - lista_compras.go
-  - structs_usuario_produto.go
-  - erros_validados.go
-
-/semana03-apis
-  - main.go
-  - rotas.go
-  - tarefas_api.go
-
-/semana04-projeto-final
-  - api_produtos/
-  - banco/
-  - README.md
-```
-
----
-
 ## 📚 Trilha de Cursos Utilizados
 
 - [Curso Introdutório de Go – Rocketseat](https://app.rocketseat.com.br/journey/go-curso-introdutorio/overview)
