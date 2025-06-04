@@ -16,7 +16,7 @@ Este repositório reúne os exercícios, anotações e pequenos projetos desenvo
 ## 📅 Cronograma de Estudos
 
 ### Semana 1 – Fundamentos
-- [ ] Instalação do Go e primeiro script
+- [x] Instalação do Go e primeiro script
 - [ ] Variáveis, tipos e operadores
 - [ ] Controle de fluxo (`if`, `for`, `switch`)
 - [ ] Funções e exercícios práticos
