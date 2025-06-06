@@ -1,9 +1,9 @@
 package main
 
 import (
-	variavel "github.com/IvineNunes/estudos-go/semana01-fundamentos/viariavel"
+	fluxos "github.com/IvineNunes/estudos-go/semana01-fundamentos/fluxos_controle"
 )
 
 func main() {
-	variavel.Constante()
+	fluxos.Range()
 }
