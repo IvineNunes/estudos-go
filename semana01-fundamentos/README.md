@@ -4,8 +4,8 @@ Nesta semana, os estudos são focados na base da linguagem Go. Aqui você encont
 
 ## 📚 Conteúdos abordados
 - [x] Instalação do Go e criação do primeiro programa
-- [ ] Variáveis, tipos e operadores
-- [ ] Controle de fluxo: `if`, `for`, `switch`
+- [x] Variáveis, tipos e operadores
+- [x] Controle de fluxo: `if`, `for`, `switch`
 - [ ] Funções com parâmetros e retorno
 
 ## ✅ Objetivo
