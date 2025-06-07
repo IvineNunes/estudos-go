@@ -17,12 +17,12 @@ Este repositório reúne os exercícios, anotações e pequenos projetos desenvo
 
 ### Semana 1 – Fundamentos
 - [x] Instalação do Go e primeiro script
-- [ ] Variáveis, tipos e operadores
-- [ ] Controle de fluxo (`if`, `for`, `switch`)
+- [x] Variáveis, tipos e operadores
+- [x] Controle de fluxo (`if`, `for`, `switch`)
 - [ ] Funções e exercícios práticos
 
 ### Semana 2 – Estruturas e métodos
-- [ ] Arrays, slices e maps
+- [x] Arrays, slices e maps
 - [ ] Structs e métodos
 - [ ] Manipulação de erros e validações
 
